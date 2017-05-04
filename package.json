@@ -1,0 +1,19 @@
+{
+  "name": "symrecover_autoconfig",
+  "version": "1.0.0",
+  "description": "NodeJS Script to start symrecover for all production SRDF/A Sessions ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sh0velMan/symrecover_autoconfig/"
+  },
+  "author": "Matt Gustafson (sh0velman)",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^2.3.0",
+    "xml2js-parser": "^1.0.1"
+  }
+}

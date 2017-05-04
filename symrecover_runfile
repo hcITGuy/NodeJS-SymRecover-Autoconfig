@@ -1,0 +1,16 @@
+# Option file for symrecover
+#######################################################
+goldcopy_type_r2 = none
+log_level = 2
+monitor_cycle_time = 120
+monitor_only = 0
+# rdfg = name:London
+restart_window = 3600
+restart_max_attempts = 10
+# restart_max_wait_state_change = 3600
+# restart_max_wait_adcopy_sync = 3600
+restart_delay = 60
+restart_attempt_pause = 60
+restart_group_on_startup = 1
+email_addr_target = you@yourdomain.com
+email_server = mail.yourdomain.com
